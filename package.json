@@ -1,0 +1,24 @@
+{
+  "name": "express-warmup",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillrg22/express-warmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillrg22/express-warmup/issues"
+  },
+  "homepage": "https://github.com/hillrg22/express-warmup#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
